@@ -12,7 +12,7 @@ const App = () => {
       </h1>
       <p className="desc text-center">
         Promptopia is an open-source AI prompting tool for modern creative
-        topics like travel, food, beauty, coding, and more.
+        topics like travel, food, beauty, coding.
       </p>
 
       <Feed />
